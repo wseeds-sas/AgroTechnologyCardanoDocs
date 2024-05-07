@@ -22,9 +22,9 @@
 - [Gomaestro](https://www.gomaestro.org/pricing)
 
 #### Pricing:
-![Blockfrost](blockfrost-pricing.png)
-![Koios](koios-pricing.png)
-![Gomaestro](gomaestro-pricing.png)
+![Blockfrost](https://github.com/wseeds-sas/AgroTechnologyCardanoDocs/blob/docs/WD-565-initial-cardano-doc/milestones/M1/blockfrost-pricing.png?raw=true)
+![Koios](https://github.com/wseeds-sas/AgroTechnologyCardanoDocs/blob/docs/WD-565-initial-cardano-doc/milestones/M1/koios-pricing.png?raw=true)
+![Gomaestro](https://github.com//wseeds-sas/AgroTechnologyCardanoDocs/blob/docs/WD-565-initial-cardano-doc/milestones/M1/gomaestro-pricing.png?raw=true)
 
 ### Open Source Option: Ogmios
 Ogmios provides an HTTP/WebSocket API for interacting with a local cardano-node via JSON+RPC-2.0, offering higher control over integration and deeper involvement in operational management.

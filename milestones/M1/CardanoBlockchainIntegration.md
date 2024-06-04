@@ -5,7 +5,6 @@ Our project aims to revolutionize agricultural investments by tokenizing agricul
 
 **Note**: This project is in the concept phase, meaning all components and features are in development and will be tested on the Cardano testnet.
 
-![Project Overview](https://github.com/wseeds-sas/AgroTechnologyCardanoDocs/blob/docs/WD-565-initial-cardano-doc/milestones/M1/project-overview.png?raw=true)
 
 ## Technology Introduction
 
@@ -39,7 +38,7 @@ Blockfrost is a comprehensive API service for interacting with the Cardano block
 While we are starting with Blockfrost for its speed and ease of setup, our long-term vision includes transitioning to an open-source solution like Ogmios to gain greater control over our data management and foster community contributions.
 
 ### Atala PRISM
-Atala PRISM provides a robust infrastructure for decentralized identity management. It is crucial for ensuring secure and verifiable identities for all stakeholders involved in our project, enhancing trust and transparency.
+[Atala PRISM](https://docs.atalaprism.io/docs/getting-started/) provides a robust infrastructure for decentralized identity management. It is crucial for ensuring secure and verifiable identities for all stakeholders involved in our project, enhancing trust and transparency.
 
 **Components**:
 - **Cloud Agent**: Manages DIDs and VCs, providing functionalities like authentication, authorization, credential issuance, and secure communication.
